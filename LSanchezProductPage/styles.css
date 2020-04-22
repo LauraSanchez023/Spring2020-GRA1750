@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #f0c8d1;
+	color: #ffffff;
+	font-family: Avenir, Arial, Helvetica, sans-serif ;
+	text-align: center;
+}
+
+#mainContainer{
+	background-color: #ffffff ;
+	width: 900px;
+	margin: 0 auto;
+
+}
+
+#mainContainer img [alt="Perfume Bottle"]{
+	width: 350px;
+	height: 400px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.productContainer{
+	background-color: #ebb1bf;
+	width: 900px;
+	height: 350px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.productIngredients{
+	background-color: #000000;
+	width: 900px;
+	height: 325px;
+	margin: 0 auto;
+}
+.AvailableNow{
+	background-color: #f5bfcc;
+}

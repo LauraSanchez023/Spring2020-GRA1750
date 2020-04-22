@@ -1,0 +1,108 @@
+body{
+  background-color: #191919;
+}
+
+#main-container{
+  margin: 0 auto;
+  width: 768px;
+  height: auto;
+  background-color: #191919;
+}
+
+#header{
+  width: 768px;
+  height: 300px;
+  margin: 0 auto;
+  background-image: url("header Copy.jpg");
+	background-position: center;
+}
+
+#nav{
+  width: 768px;
+  margin: 0 auto;
+  background-color: #191919;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: #191919;
+	color: #f3d595;
+}
+
+li {
+  float: right;
+	color: #f3d595;
+}
+
+li a {
+  display: block;
+  color: #f3d595;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Avenir, Helvetica, sans-serif;
+}
+
+li a:hover {
+  color: darkgrey;
+  transition: color 1s;
+  }
+
+  li a:visited{
+  color: #f3d595;
+  transition: color 1s;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+input[type=text], select, textarea {
+  background-color: white;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  font-family: Avenir, Helvetica, sans-serif;
+}
+
+input[type=submit] {
+  background-color: #f3d595;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: Avenir, Helvetica, sans-serif;
+}
+
+input[type=submit]:hover {
+  background-color: white;
+}
+
+h3{
+	color: #f3d595;
+	font-family: Avenir, Helvetica, sans-serif;
+}
+
+label{
+	color: #f3d595;
+	font-family: Avenir, Helvetica, sans-serif;
+}
+.container {
+  border-radius: 5px;
+  background-color: #191919;
+  padding: 20px;
+}
+
+

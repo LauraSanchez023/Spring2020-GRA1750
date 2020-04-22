@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #f05b29;
+
+}
+
+#mainContainer{
+	background-color: #f05b29 ;
+	width: 900px;
+	margin: 0 auto;
+}
+
+#mainContainer img{
+	width: 900px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1{
+	color: #ffffff;
+	font-size: 35px;
+	font-family: Arial Rounded MT Bold, Arial, sans-serif;
+}
+
+h2{
+	color: #ffffff;
+	font-size: 20px;
+	font-family: Arial Rounded MT Bold, Arial, sans-serif;
+}
