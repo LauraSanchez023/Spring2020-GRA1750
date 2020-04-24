@@ -1,0 +1,153 @@
+body{
+	background-color: black;
+	font-family: Montserrat, Avenir, sans-serif;
+}
+.trailer{
+	align-content: center;
+	margin: 0 auto;
+}
+.spotify{
+	align-content: center;
+	margin: 0 auto;
+	padding-left: 35%
+}
+.characters {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.trailer {
+	margin: 0 auto;
+}
+
+h1{
+	color: white;
+}
+
+h2{
+		color: white;
+	text-decoration: none;
+	}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+p {
+	color: white;
+}
+
+td {
+		align-content: center;
+		margin: 0 auto;
+		
+	}
+img {
+	align-content: center;
+}
+
+.header{
+	height: 300px;
+	width: 1366px
+}
+
+.top-left {
+  position: absolute;
+  top: 180px;
+  left: 100px;
+	right: 500px;
+	font-size: 20px;
+	color:white;
+}
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  text-align:center;
+  float: right;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+  transition: 0.3s;
+
+}
+
+.sidenav a:hover{
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+
+.mainContainer {
+    font-family: Montserrat, Avenir, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+	color: white;
+	margin: 0 auto;
+		
+}
+	.image {
+}
